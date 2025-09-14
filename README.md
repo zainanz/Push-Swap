@@ -9,7 +9,7 @@
 Push_Swap is about sorting data on a stack, with a limited set of operations, using two stacks (A and B). The goal is to write a program that, given a list of **unique integers**, outputs a sequence of moves to sort them in ascending order in stack A. Duplicates are **not allowed** (input containing duplicates should trigger an error).
 
 ---
-![Demo](gif/push_swap.gif)
+![Demo](push_swap.gif)
 
 ## ⚙ Features / Requirements
 
