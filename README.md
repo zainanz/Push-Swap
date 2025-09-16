@@ -36,7 +36,7 @@ Push_Swap is about sorting data on a stack, with a limited set of operations, us
 ```bash
 # Clone the repo
 git clone https://github.com/zainanz/push_swap.git
-cd push-swap
+cd push_swap
 
 # Build
 make
