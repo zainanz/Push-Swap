@@ -1,17 +1,18 @@
-# Push_Swap
+<h1 align="center"> Push_Swap </h1>
 
-42 School Project — Push_Swap
+<br>
 
----
-
-## Description
+### Description
 
 Push_Swap is about sorting data on a stack, with a limited set of operations, using two stacks (A and B). The goal is to write a program that, given a list of **unique integers**, outputs a sequence of moves to sort them in ascending order in stack A. Duplicates are **not allowed** (input containing duplicates should trigger an error).
 
----
-![Demo](push_swap.gif)
+<p align="center">
+  <img src="push_swap.gif"></img>
+</p>
 
-## ⚙ Features / Requirements
+---
+
+### ⚙ Features / Requirements
 
 - Input is a sequence of integers passed as command-line arguments.  
 - No duplicate numbers; if duplicates are found, the program prints `Error` and exits.  
@@ -31,7 +32,7 @@ Push_Swap is about sorting data on a stack, with a limited set of operations, us
 
 ---
 
-## Usage
+### Usage
 
 ```bash
 # Clone the repo
